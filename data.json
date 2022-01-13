@@ -1,0 +1,40 @@
+{
+	"elevators": [
+		{
+			"number": 1,
+			"currentFloor": 1,
+			"maximumOccupancy": 10, 
+			"currentOccupancy": 0,
+			"direction": 0,
+			"activeStops": [],
+			"maximumStops": 5
+		},
+		{
+			"number": 2,
+			"currentFloor": 3,
+			"maximumOccupancy": 10, 
+			"currentOccupancy": 1,
+			"direction": -1,
+			"activeStops": [2],
+			"maximumStops": 5
+		},
+		{
+			"number": 3,
+			"currentFloor": 2,
+			"maximumOccupancy": 10, 
+			"currentOccupancy": 2,
+			"direction": 1,
+			"activeStops": [4,5],
+			"maximumStops": 5
+		},
+		{
+			"number": 4,
+			"currentFloor": 8,
+			"maximumOccupancy": 10, 
+			"currentOccupancy": 0,
+			"direction": 0,
+			"activeStops": [],
+			"maximumStops": 5
+		}
+	]
+}
