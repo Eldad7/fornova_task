@@ -11,9 +11,15 @@ data.json contains the elevators.
 Each elevator object contains:
 
 number
+
 currentFloor
+
 maximumOccupancy
+
 currentOccupancy
+
 direction (where 0 is idle, -1 is down and 1 is up
+
 activeStops (array of stops)
+
 maximumStops
